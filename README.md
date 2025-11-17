@@ -1,6 +1,7 @@
 ## About
 
-I architect and deploy production-grade data systems that drive measurable business impact. My work has delivered 72x performance improvements, $1M+ cost savings, and AI tools that compress weeks of manual work into minutes. From building enterprise dashboards serving 500+ executives across 25+ countries to developing public health ML systems, I focus on scalable solutions that solve real problems.
+I architect and deploy **production grade data systems** that drive measurable business impact. My work has delivered **72x performance improvements**, **$1M+ cost savings**, and AI tools that compress weeks of manual work into minutes. From building enterprise dashboards serving **500+ executives across 25+ countries** to developing public health ML systems, I focus on scalable solutions that solve real problems.
+
 
 
 ## Technical Expertise
@@ -18,34 +19,74 @@ Azure (Data Lake, SQL Database, Data Factory, Blob Storage), Snowflake, PostgreS
 Power BI, Tableau, DAX, M Code, Power Query, Excel, Data Modeling, Row-Level Security
 
 
+
 ## Key Projects
 
-**VERA - AI Compliance Assistant** | GenAI, RAG, Docker  
-Production-ready AI system automating materials testing compliance against 50+ ISO/ASTM standards. Implements hybrid RAG architecture (FAISS + LangChain) reducing manual review from 2 weeks to 5 minutes—a 99% time reduction. Delivers explainable pass/fail decisions with Docker deployment for enterprise environments. [View Project →](https://github.com/puppalasaisrikar)
+### VERA - AI Compliance Assistant
+**GenAI, RAG, Docker** | [View Project →](https://github.com/puppalasaisrikar)
 
-**Supply Chain Anomaly Detection** | Volvo Group Partnership  
-Analyzed 347K+ shipment records across 8 distribution centers and 11 transport modes using Isolation Forest algorithm. Identified $1M+ in supply chain irregularities, delivering recommendations that reduced operational risk by 25% through bi-weekly executive presentations.
+Production-ready AI system automating materials testing compliance against 50+ ISO/ASTM standards. Implements hybrid RAG architecture (FAISS + LangChain) reducing manual review from **2 weeks to 5 minutes**—a 99% time reduction. Delivers explainable pass/fail decisions with Docker deployment for enterprise environments.
 
-**Ask Your Docs** | Document Intelligence System  
-Semantic search platform enabling natural language queries over uploaded documents (PDF, DOCX, TXT). Built with retrieval-augmented generation for context-aware responses, implementing embeddings and vector databases for production deployment. [View Project →](https://github.com/puppalasaisrikar/ask-your-docs)
-
-**Agricultural ML for Crop Yield Prediction** | Hackathon Winner  
-Developed machine learning models integrating environmental data with historical patterns for actionable agricultural insights. Winner of NC Plant Science Initiative Hackathon, demonstrating practical applications of predictive modeling in agricultural technology.
-
-**Colorectal Cancer Metamodels** | Biomedical Research  
-Contributing to computational models supporting clinical decision-making frameworks. Implementing advanced sampling strategies (Latin Hypercube, Sobol Sequence) for optimal training dataset construction across intervention scenarios. [View Project →](https://github.com/puppalasaisrikar/ColorectalCancerMetamodels)
+```
+Impact: 99% time reduction | 50+ standards automated | Enterprise-ready deployment
+```
 
 ---
+
+### Supply Chain Anomaly Detection
+**Volvo Group Partnership** | Isolation Forest, Python
+
+Analyzed **347K+ shipment records** across 8 distribution centers and 11 transport modes using Isolation Forest algorithm. Identified **$1M+ in supply chain irregularities**, delivering recommendations that reduced operational risk by 25% through bi-weekly executive presentations.
+
+```
+Impact: $1M+ identified | 25% risk reduction | 347K+ records analyzed
+```
+
+---
+
+### Ask Your Docs
+**Document Intelligence System** | [View Project →](https://github.com/puppalasaisrikar/ask-your-docs)
+
+Semantic search platform enabling natural language queries over uploaded documents (PDF, DOCX, TXT). Built with retrieval-augmented generation for context-aware responses, implementing embeddings and vector databases for production deployment.
+
+```
+Tech Stack: RAG | Vector Databases | Embeddings | LangChain
+```
+
+---
+
+### Agricultural ML for Crop Yield Prediction
+**Hackathon Winner** | NC Plant Science Initiative
+
+Developed machine learning models integrating environmental data with historical patterns for actionable agricultural insights. Winner of NC Plant Science Initiative Hackathon, demonstrating practical applications of predictive modeling in agricultural technology.
+
+```
+Recognition: Hackathon Winner | Domain: AgTech | Focus: Predictive Modeling
+```
+
+---
+
+### Colorectal Cancer Metamodels
+**Biomedical Research** | [View Project →](https://github.com/puppalasaisrikar/ColorectalCancerMetamodels)
+
+Contributing to computational models supporting clinical decision-making frameworks. Implementing advanced sampling strategies (Latin Hypercube, Sobol Sequence) for optimal training dataset construction across intervention scenarios.
+
+```
+Domain: Healthcare ML | Methods: Advanced Sampling | Application: Policy Support
+```
+
+
 
 ## Recognition & Awards
 
-- **NC State Graduate Merit Award** (2025)
-- **NC Plant Science Initiative Hackathon Winner** (2024)
-- **Fractal Analytics Best Team Award** (2022)
-- Led technical engagements achieving 95% client satisfaction across Fortune 50 enterprise
-- Contributor to open-source biomedical research and ML tooling
+<div align="center">
 
----
+| Year | Recognition | Organization |
+|:----:|:------------|:-------------|
+| **2025** | Graduate Merit Award | NC State University |
+| **2024** | Hackathon Winner | NC Plant Science Initiative |
+| **2022** | Best Team Award | Fractal Analytics |
+</div>
 
 ## Contact
 
@@ -55,4 +96,3 @@ Contributing to computational models supporting clinical decision-making framewo
 
 Open to collaboration opportunities in data science, ML engineering, and GenAI applications.
 
----
