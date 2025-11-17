@@ -2,7 +2,6 @@
 
 I architect and deploy production-grade data systems that drive measurable business impact. My work has delivered 72x performance improvements, $1M+ cost savings, and AI tools that compress weeks of manual work into minutes. From building enterprise dashboards serving 500+ executives across 25+ countries to developing public health ML systems, I focus on scalable solutions that solve real problems.
 
----
 
 ## Technical Expertise
 
