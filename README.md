@@ -23,7 +23,7 @@ Power BI, Tableau, DAX, M Code, Power Query, Excel, Data Modeling, Row-Level Sec
 ## Key Projects
 
 ### VERA - AI Compliance Assistant
-**GenAI, RAG, Docker** | [View Project →](https://github.com/puppalasaisrikar)
+**GenAI, RAG, Docker** | [View Project →](https://github.com/puppalasaisrikar/VERA)
 
 Production-ready AI system automating materials testing compliance against 50+ ISO/ASTM standards. Implements hybrid RAG architecture (FAISS + LangChain) reducing manual review from **2 weeks to 5 minutes**—a 99% time reduction. Delivers explainable pass/fail decisions with Docker deployment for enterprise environments.
 
@@ -56,7 +56,7 @@ Tech Stack: RAG | Vector Databases | Embeddings | LangChain
 ---
 
 ### Agricultural ML for Crop Yield Prediction
-**Hackathon Winner** | NC Plant Science Initiative
+**Hackathon Winner** | NC Plant Science Initiative | [View Project →](https://github.com/puppalasaisrikar/NC_Plant_Science_Initiative_Hackathon)
 
 Developed machine learning models integrating environmental data with historical patterns for actionable agricultural insights. Winner of NC Plant Science Initiative Hackathon, demonstrating practical applications of predictive modeling in agricultural technology.
 
