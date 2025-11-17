@@ -49,7 +49,7 @@ Contributing to computational models supporting clinical decision-making framewo
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/puppalasaisrikar](https://linkedin.com/in/puppalasaisrikar)  
+**LinkedIn:** [linkedin.com/in/puppalasaisrikar](https://linkedin.com/in/saisrikarpuppala)  
 **Email:** srikarsai.puppala@gmail.com  
 **Location:** Raleigh, NC
 
